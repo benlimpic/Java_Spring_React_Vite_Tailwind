@@ -8,8 +8,8 @@ For further reference, please consider the following sections:
 * [Create an OCI image](https://docs.spring.io/spring-boot/3.5.3/maven-plugin/build-image.html)
 * [Spring Web](https://docs.spring.io/spring-boot/3.5.3/reference/web/servlet.html)
 * [Spring Security](https://docs.spring.io/spring-boot/3.5.3/reference/web/spring-security.html)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/3.5.3/reference/using/devtools.html)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/3.5.3/reference/data/sql.html#data.sql.jpa-and-spring-data)
+* [OpenAI](https://docs.spring.io/spring-ai/reference/api/chat/openai-chat.html)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
