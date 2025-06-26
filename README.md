@@ -120,29 +120,11 @@ npm run dev --prefix frontend
 
 ---
 
-## 📚 Notes to Future Me
+## 💡 Tips
 
 - If you see `OpenAI API key must be set` — you forgot to configure `.env` 🧠
 - `npm run dev` at the root runs the Mac launch script (opens 2 terminals)
 - Want to add Docker later? Easy with this base.
-
----
-
-## 💡 Tips
-
-- Use Tailwind Play CDN during prototyping.
-- Use `concurrently` if you prefer everything in one terminal tab.
-- Keep `application.yml` in `backend/src/main/resources` clean and profile-separated (`-dev`, `-prod`, etc.)
-
----
-
-## 📦 Future Additions
-
-- [ ] Add Docker support 🐳  
-- [ ] Add Auth with JWT  
-- [ ] Enable CI/CD  
-- [ ] API tests with Postman or REST Assured  
-- [ ] Live reload on backend (spring-dev-tools)
 
 ---
 
